@@ -61,3 +61,9 @@ Usage:
 	        default:
 		        return state
         }
+
+##Normilizr
+
+Normilizr formats the information that is received by a data base or API.
+
+Normilizr standardization objective is to reduce the redundancy of the information and makes data be more accessible.

@@ -1,3 +1,5 @@
+/*This entry demostrates how to use native redux with js*/
+
 import { createStore } from 'redux'
 
 const $form = document.getElementById('form')
